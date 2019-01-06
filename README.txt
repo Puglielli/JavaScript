@@ -6,4 +6,3 @@ Repositorio de arquivos JavaScript
 - Exemplos
 - Exercicios
 - Projetos
-- Projetos
