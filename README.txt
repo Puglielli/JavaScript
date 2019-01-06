@@ -2,7 +2,8 @@ Philip H. Puglielli <puglielli14@gmail.com>
 
 Repositorio de arquivos JavaScript
 
-* Conteudo do Curso da Udemy
+* Conteúdo do Curso da Udemy
 - Exemplos
-- Exercicios
+- Exercícios
 - Projetos
+- Testes
