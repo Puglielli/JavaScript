@@ -1,4 +1,4 @@
-Philip H. Puglielli
+Philip H. Puglielli <puglielli1@gmail.com> 
 
 Repositorio de arquivos JavaScript
 
