@@ -4,6 +4,6 @@ Repositorio de arquivos JavaScript
 
 * Conteúdo do Curso da Udemy
 - Exemplos
-- Exercícios
-- Projetos
+- Exercicios
+- Projeto
 - Testes
