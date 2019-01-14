@@ -24,3 +24,14 @@ imprimirResultado(6.55)
 imprimirResultado(2.3)
 imprimirResultado(-1)
 imprimirResultado(11)
+
+Number.prototype.maior = function (num) {
+    if(this > num){
+        return this
+    }else {
+        return num
+    }
+}
+
+let num = 9
+console.log((8).maior(num))
